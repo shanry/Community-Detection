@@ -63,7 +63,7 @@ def color_community(Gi, community_list, method=""):
 
 if __name__ == "__main__":
     # Graph 文件名
-    filename = "du.txt"  # "adun_int.txt"  或者  "du.txt"  或者  "footu.txt"
+    filename = "footu.txt"  # "adun_int.txt"  或者  "du.txt"  或者  "footu.txt"
     G = ig.Graph.Read_Edgelist(filename, directed=False)
     Gx = nx.read_edgelist(filename, nodetype=int)
 
