@@ -17,11 +17,11 @@ Community Detection Algorithm of python-igraph
 [adun_int_gn]: https://github.com/shanry/Community-Detection/blob/master/figs/adun_int_gn.png
 [adun_int_lp]: https://github.com/shanry/Community-Detection/blob/master/figs/adun_int_lp.png
 
-[adun_int_fg]: https://github.com/shanry/Community-Detection/blob/master/figs/du_fg.png
-[adun_int_gn]: https://github.com/shanry/Community-Detection/blob/master/figs/du_gn.png
-[adun_int_lp]: https://github.com/shanry/Community-Detection/blob/master/figs/du_lp.png
+[du_fg]: https://github.com/shanry/Community-Detection/blob/master/figs/du_fg.png
+[du_gn]: https://github.com/shanry/Community-Detection/blob/master/figs/du_gn.png
+[du_lp]: https://github.com/shanry/Community-Detection/blob/master/figs/du_lp.png
 
-[adun_int_fg]: https://github.com/shanry/Community-Detection/blob/master/figs/footu_fg.png
-[adun_int_gn]: https://github.com/shanry/Community-Detection/blob/master/figs/footu_gn.png
-[adun_int_lp]: https://github.com/shanry/Community-Detection/blob/master/figs/footu_lp.png
+[footu_fg]: https://github.com/shanry/Community-Detection/blob/master/figs/footu_fg.png
+[footu_gn]: https://github.com/shanry/Community-Detection/blob/master/figs/footu_gn.png
+[footu_lp]: https://github.com/shanry/Community-Detection/blob/master/figs/footu_lp.png
 
